@@ -11,8 +11,8 @@ if the input match the requirment, the listed requirment will turn green, otherw
 
 I used tree addEventListener as following:
 
-First addEventListener will be to handle the username
-Second addEventListener will be to handle the password
-Third addEventListener will be to handle the "password again"
+	First addEventListener will be to handle the username.
+	Second addEventListener will be to handle the password.
+	Third addEventListener will be to handle the "password again."
 
 
